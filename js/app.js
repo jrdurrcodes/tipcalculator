@@ -125,7 +125,7 @@ const menuItems = [
         item: 'coca-cola',
         desc: 'dark bubbling soda with ice',
         imgUrl: 'cocacola.jpg',
-        price: 3.99,
+        price: 3.98,
         qty: 0,
     },
     {
