@@ -50,9 +50,9 @@ const menuItems = [
     {
         id: 4, 
         type:'appetizers',
-        item:'spinach & artichoke dip',
+        item:'cheesesticks',
         desc:'golden brown cheesesticks filled with mozerella cheese',
-        imgUrl: '',
+        imgUrl: 'cheesesticks.jpg  ',
         price: 8.99,
         qty: 0
     },
@@ -61,7 +61,7 @@ const menuItems = [
         type: 'entrees',
         item: 'chicken sandwich',
         desc: 'grilled chicken ',
-        imgUrl: '',
+        imgUrl: 'chicken sandwich.jpg',
         price: 9.99,
         qty:0
     },
@@ -70,7 +70,7 @@ const menuItems = [
         type: 'entrees',
         item: 'veggie burger',
         desc: 'bean veggie patty served with fries',
-        imgUrl: 'veggie_burger.jpeg',
+        imgUrl: 'veggieburger.jpg',
         price: 12.99,
         qty: 0
     },
@@ -86,10 +86,10 @@ const menuItems = [
     {
         id: 8, 
         type: 'entrees',
-        item: '',
-        desc: '',
-        imgUrl: '',
-        price:   '',
+        item: 'quesadillias',
+        desc: 'toasted tortilla filled with black beans cheese tomatoes and chicken or shrimp ',
+        imgUrl: 'quesadillas.jpg',
+        price:   '16.99',
         qty: 0
     },
     {
@@ -185,10 +185,10 @@ const menuItems = [
     {
         id: 19, 
         type: 'sides',
-        item: 'coleslaw',
-        desc: 'cabbage carrots stirred in homemade ranch ',
-        imgUrl: '',
-        price: 4.99,
+        item: 'garden salad',
+        desc: 'green salad with chickpeas tomatoes avocado ',
+        imgUrl: 'salad.jpg',
+        price: 5.99,
         qty: 0
     },
     {
