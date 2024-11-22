@@ -1,0 +1,67 @@
+:root {
+    --hotpink: #EF476F;
+    --softpink: #FFD3DA;
+    --rose:#A55463;
+    --darkgrey: #5B6057;
+    --ltgrey: #CFCFCF;
+}
+
+* {box-sizing: border-box;}
+
+
+    body {
+        margin: 0;
+        padding: 0;
+        background-color: var(--softpink);
+    }
+
+    h2 {
+        color: var(--hotpink);
+    } 
+
+    
+    .item-desc {
+        font-size: 14 px;
+        font-style: italic;
+    }
+    
+    .item-item {
+        color: var(--rose);
+    }
+    
+    item-price {
+        color: var(--hotpink);
+    }
+    
+    .main {
+        padding: 40px 0;
+    }
+    
+    .menu-images {
+        max-height: 150px;
+    }
+
+    .menu-div {
+        padding: 40px 0;
+    }
+    
+    .section {
+        padding: 60px 0;
+    }
+    
+    .subtotal-div, .ticket-div {
+        padding: 15px;
+        background-color: var(--softpink);
+        border: 3px solid var(--darkgrey);
+        border-radius: 5px;
+    }
+    
+    #confirm-btn {
+        background-color: var(--rose);
+        color: var(--darkgrey);
+    }
+
+    #receiptTable {
+        padding: 10px 0;
+        width: 100%;
+    }
